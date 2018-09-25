@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sfsfffssfs
+||||||| merged common ancestors
+=======
+Echo txt
+>>>>>>> Add texto_echo
